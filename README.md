@@ -95,3 +95,4 @@ public interface DataServices {
 	public List<Article> getEntityListByDateRange(Date fromDate, Date toDate) throws Exception;
 	
 }
+/Comment/
